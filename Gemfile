@@ -5,6 +5,8 @@ ruby '2.7.2'
 
 # for layouts
 gem 'bootstrap-sass', '3.4.1'
+# for secure password
+gem 'bcrypt', '3.1.13'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.1.0'
