@@ -7,6 +7,11 @@ ruby '2.7.2'
 gem 'bootstrap-sass', '3.4.1'
 # for secure password
 gem 'bcrypt', '3.1.13'
+# for make many fake users
+gem 'faker', '2.1.2'
+# for pagination
+gem 'will_paginate', '3.1.8'
+gem 'bootstrap-will_paginate', '1.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.1.0'
