@@ -12,9 +12,14 @@ gem 'faker', '2.1.2'
 # for pagination
 gem 'will_paginate', '3.1.8'
 gem 'bootstrap-will_paginate', '1.0.0'
+# for uploading image files
+gem 'active_storage_validations', '0.8.2'
+# for arrenging images
+gem 'image_processing','1.9.3'
+gem 'mini_magick', '4.9.5'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 6.1.0'
+gem 'rails', '~> 6.1.0' 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
