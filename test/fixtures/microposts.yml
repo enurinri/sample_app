@@ -5,7 +5,7 @@ cheesecake:
   created_at: <%= 10.minutes.ago %> 
   user: enuri
 
-tau_manifesto:
+atcoder:
   content: "Check out the profile of AtCoder by @enurinri: https://atcoder.jp/users/enurinri" 
   created_at: <%= 3.years.ago %>
   user: enuri
